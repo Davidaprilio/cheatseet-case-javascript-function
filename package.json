@@ -1,0 +1,17 @@
+{
+  "name": "javascript-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roman.js",
+  "scripts": {
+    "test": "jest",
+		"test:watch:change": "jest --watch",
+		"test:watch": "jest --watchAll --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
